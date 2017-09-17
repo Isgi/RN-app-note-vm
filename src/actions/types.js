@@ -1,0 +1,7 @@
+export const REQUEST_VMS = 'REQUEST_VMS';
+export const RECEIVE_VMS = 'RECEIVE_VMS';
+export const RECEIVED_FAILED_VMS = 'RECEIVED_FAILED_VMS';
+
+export const CREATE_VM = 'CREATE_VM';
+export const CREATED_VM = 'CREATED_VM';
+export const CREATED_FAILED_VM = 'CREATED_FAILED_VM';
